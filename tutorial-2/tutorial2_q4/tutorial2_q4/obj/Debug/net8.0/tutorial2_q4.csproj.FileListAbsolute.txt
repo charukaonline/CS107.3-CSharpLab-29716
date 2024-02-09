@@ -1,0 +1,14 @@
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\bin\Debug\net8.0\tutorial2_q4.exe
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\bin\Debug\net8.0\tutorial2_q4.deps.json
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\bin\Debug\net8.0\tutorial2_q4.runtimeconfig.json
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\bin\Debug\net8.0\tutorial2_q4.dll
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\bin\Debug\net8.0\tutorial2_q4.pdb
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\obj\Debug\net8.0\tutorial2_q4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\obj\Debug\net8.0\tutorial2_q4.AssemblyInfoInputs.cache
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\obj\Debug\net8.0\tutorial2_q4.AssemblyInfo.cs
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\obj\Debug\net8.0\tutorial2_q4.csproj.CoreCompileInputs.cache
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\obj\Debug\net8.0\tutorial2_q4.dll
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\obj\Debug\net8.0\refint\tutorial2_q4.dll
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\obj\Debug\net8.0\tutorial2_q4.pdb
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\obj\Debug\net8.0\tutorial2_q4.genruntimeconfig.cache
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\tutorial-2\tutorial2_q4\tutorial2_q4\obj\Debug\net8.0\ref\tutorial2_q4.dll
