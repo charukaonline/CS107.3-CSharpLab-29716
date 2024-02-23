@@ -1,0 +1,7 @@
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\lab-sheet-3\labSheet3_q1\labSheet3_q1\bin\Debug\labSheet3_q1.exe.config
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\lab-sheet-3\labSheet3_q1\labSheet3_q1\bin\Debug\labSheet3_q1.exe
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\lab-sheet-3\labSheet3_q1\labSheet3_q1\bin\Debug\labSheet3_q1.pdb
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\lab-sheet-3\labSheet3_q1\labSheet3_q1\obj\Debug\labSheet3_q1.csproj.AssemblyReference.cache
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\lab-sheet-3\labSheet3_q1\labSheet3_q1\obj\Debug\labSheet3_q1.csproj.CoreCompileInputs.cache
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\lab-sheet-3\labSheet3_q1\labSheet3_q1\obj\Debug\labSheet3_q1.exe
+D:\BSc (hons) Computer Science\Semester 03\C#\lab-tutorials\lab-sheet-3\labSheet3_q1\labSheet3_q1\obj\Debug\labSheet3_q1.pdb
