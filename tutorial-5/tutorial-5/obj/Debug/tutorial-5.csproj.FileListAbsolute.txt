@@ -1,0 +1,11 @@
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\bin\Debug\tutorial-5.exe.config
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\bin\Debug\tutorial-5.exe
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\bin\Debug\tutorial-5.pdb
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\obj\Debug\tutorial-5.csproj.AssemblyReference.cache
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\obj\Debug\tutorial_5.Properties.Resources.resources
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\obj\Debug\tutorial-5.csproj.GenerateResource.cache
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\obj\Debug\tutorial-5.csproj.CoreCompileInputs.cache
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\obj\Debug\tutorial-5.exe
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\obj\Debug\tutorial-5.pdb
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\obj\Debug\tutorial_5.Form1.resources
+D:\BSc (hons) Computer Science\C sharp\tutorial-5\tutorial-5\obj\Debug\tutorial_5.Form2.resources
